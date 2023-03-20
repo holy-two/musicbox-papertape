@@ -12,8 +12,8 @@ feature
 
 Reference
 =========
-.. [Ref] https://abcnotation.com/wiki/abc:standard:v2.1
-.. [Ref] https://www.abcjs.net/abcjs-editor.html
+.. [Rules] https://abcnotation.com/wiki/abc:standard:v2.1
+.. [Editor] https://www.abcjs.net/abcjs-editor.html
 
 
 API
