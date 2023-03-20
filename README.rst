@@ -3,12 +3,20 @@ music-box-paper-tape
 ====================
 
 
-Rule
-====
-- https://abcnotation.com/wiki/abc:standard:v2.1
-- https://www.abcjs.net/abcjs-editor.html
+feature
+=======
+* C major
+* Simple single track
+* Probably just translated the Chorus
+
+
+Reference
+=========
+.. [Ref] https://abcnotation.com/wiki/abc:standard:v2.1
+.. [Ref] https://www.abcjs.net/abcjs-editor.html
 
 
 API
 ===
-``pass``
+* GET ``https://ungh.cc/repos/holy-two/musicbox-papertape/files/main``
+* GET ``https://ungh.cc/repos/holy-two/musicbox-papertape/files/main/docs/{filename}``
