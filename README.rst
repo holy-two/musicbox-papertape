@@ -7,7 +7,7 @@ feature
 =======
 * C major
 * Simple single track
-* Probably just translated the Chorus
+* Chorus fragment
 
 
 Reference
