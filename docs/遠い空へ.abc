@@ -6,17 +6,30 @@ M: 3/4
 L: 1/4
 K: C
 |z3|z3|z3|z3|z3|z3|
-|z3|zBA|B-B^f|^c>d^c/A/|
-|B>^cd/e/|a/b/a-a|B-B^f|a^cA|
-|B-B-B|e^f^c|B-B^f|^c>d^c/A/|
-|B>^cd/e/|a/b/a-a|B-B^f|a^cA|
-|B>A^c|B-B-B-|B-B-B|z^fa|
-|b-ba/b/|a-ae|^fa^c|d-dd/e/|
-|^f-^fe/^f/|e-ed/e/|^fga|^ab^c'|
-|b-ba/b/|a-ae|^fa^c'|d'e'^f'|
-|^f'-^f'e'/d'/|^c'-^c'a/^c'/|d'-d'^c'/b/|^ab^c'|
-|^f'-^f'e'/d'/|^c'a^f|b-b-b-|b-b-b|
+|z3|zBA|B2^f|^c>d ^c/A/|
+|B>^c d/e/|a/b/a2|B2^f|a^cA|
+|B2B|e^f^c|B2^f|^c>d ^c/A/|
+|B>^c d/e/|a/b/a2|B2^f|a^cA|
+|B>A^c|B3-|B3|z^fa|
+|b2a/b/|a-ae|^fa^c|d2d/e/|
+|^f2e/^f/|e2d/e/|^fga|^ab^c'|
+|b2a/b/|a2e|^fa^c'|d'e'^f'|
+|^f'2e'/d'/|^c'2a/^c'/|d'2^c'/b/|^ab^c'|
+|^f'2e'/d'/|^c'a^f|b3-|b3|
+|Z5|z3|z3|z3|z3|z3|
 |z3|z3|z3|z3|z3|z3|
-|z3|z3|z3|z3|z3|z3|
-|z3|z3|z3|z3|z3|z3|
-|z3|z3|z3|
+|z3|z3|z3|z3|z3|B2^f|
+|^c>d ^c/A/|B>^c d/e/|a/b/a2|B2^f|
+|a^cA|B3-|Bz2|B2^f|
+|^c>d ^c/A/|B>^c d/e/|a/b/a2|B2^f|
+|a^cA|B>A^c|B3|z3|
+|z3|z^fa|b2a/b/|a-ae|
+|^fa^c|d2d/e/|^f2e/^f/|e2d/e/|
+|^fga|^ab^c'|b2a/b/|a2e|
+|^fa^c'|d'e'^f'|^f'2e'/d'/|^c'2a/^c'/|
+|d'2^c'/b/|^ab^c'|^f'2e'/d'/|^c'a^f|
+|b3-|b3|b3|^c'3|
+|d'd'^c'|a^fe|d3-|d3|
+|^f'>^f' e'/^f'/|a'^c'a|^f'>^f' e'/b'/|c''/d''/ c''/a'/e'|
+|^f'2e'/d'/|^c'a^f|b3-|b3|
+|
