@@ -4,7 +4,7 @@ T: 遠い空へ
 Q: "Allegro"
 M: 3/4
 L: 1/4
-K: C
+K: C %org 1=D
 |z3|z3|z3|z3|z3|z3|
 |z3|zBA|B2^f|^c>d ^c/A/|
 |B>^c d/e/|a/b/a2|B2^f|a^cA|
@@ -30,6 +30,6 @@ K: C
 |d'2^c'/b/|^ab^c'|^f'2e'/d'/|^c'a^f|
 |b3-|b3|b3|^c'3|
 |d'd'^c'|a^fe|d3-|d3|
-|^f'>^f' e'/^f'/|a'^c'a|^f'>^f' e'/b'/|c''/d''/ c''/a'/e'|
+|^f'>^f' e'/^f'/|a'^c'a|^f'>^f' e'/b'/|^c''/d''/ ^c''/a'/e'|
 |^f'2e'/d'/|^c'a^f|b3-|b3|
 |
