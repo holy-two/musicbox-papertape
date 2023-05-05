@@ -5,9 +5,9 @@ music-box-paper-tape
 
 feature
 =======
-* C major (It depends on whether it comes from staff or numbered notation🥺, the latter will be converted to C major)
-* Simple single track
 * Chorus fragment
+* Simple single track
+* Translated from Staff or Numbered Notation, the latter will be converted to C major🥺
 
 
 Reference
