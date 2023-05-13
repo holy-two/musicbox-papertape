@@ -1,11 +1,12 @@
 %abc-2.1
-X: 1
-T: Air auf der G-Saite
-Q: "Adagio"
-M: 4/4
-L: 1/4
-K: C %org 1=A
-|zzzz|:e4|e4|ea/f/ d/c/B/c/|B<TBG<F|
-|g4|g/e/_B/A/ d/^c/g/f/|f4|f/d/A/G/ c/B/f/e/|
-|e3 ^f/g/|cc//d//e/ e/d/d/c/|B/A/A//B//c/cB/A/|G4:|
+X:1
+T:Air auf der G-Saite
+Q:"Adagio"
+M:4/4
+L:1/4
+K:C %org 1=A
+V:1
+|zzzz    |:e4        |e4      |ea/f/         d/c/B/c/|B<TB     G<F     |
+|g4      | g/e/_B/A/ d/^c/g/f/|f4                    |f/d/A/G/ c/B/f/e/|
+|e3 ^f/g/| cc//d//e/ e/d/d/c/ |B/A/A//B//c/  cB/A/   |G4              :|
 |
