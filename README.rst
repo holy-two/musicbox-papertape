@@ -6,8 +6,7 @@ music-box-paper-tape
 feature
 =======
 * Chorus fragment
-* Simple single track
-* Translated from Staff or Numbered Notation, the latter will be converted to C major🥺
+* Simple single track🥺
 
 
 Reference

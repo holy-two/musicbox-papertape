@@ -5,8 +5,8 @@ Q:"Allegro"
 M:4/4
 L:1/4
 K:F
-V:1  clef=treble  snm="T"
-V:2  clef=bass    snm="B"  octave=-2
+V:1 clef=treble snm="T"
+V:2 clef=bass   snm="B" octave=-2
 [V:1] |z2                    E/D/E/G/              |     [DA]G/A/              E>C                |        D/E/F/G/              DF/G/               |
 [V:2] |                                           Z|     [Bf]2                 [cg]2              |        [da]2                 [da][cg]            |
 [V:1] |[DA]D                 [EG]F/E/              |!<(! [DF]3 !<)!       !mp! [EA]/c/            |        [Fd]f/e/              [Ec]>A              |
@@ -21,5 +21,5 @@ V:2  clef=bass    snm="B"  octave=-2
 [V:1] |[A,D]>E/F//           [CE]>[CE]             |     [DF][FA]/[Ac]/        [=Bd][GB]          |        [Ac]>=B/A//           [EG][EG]/B/         |
 [V:2] |B,/[df]//B,// F/[df]/ C/[eg]//C// G/[eg]/   |     D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/|        D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/ |
 [V:1] |[FA]/[G=B]/[Ac]/[FA]/ [GB]/[DG]/[=B,E]/[DG]/|     A2                    [E^CA,]>x          \
-                                                       & [ED]/>[ED]>[ED]       x2                 |                     
+                                                       & [ED]/>[ED]>[ED]       x2                 |
 [V:2] |F/[fa]//F// c/[fa]/   G/[g=b]//G// d/[gb]/  |     A/[ea]//A//z// E//D//E// A,/>A,/        x|

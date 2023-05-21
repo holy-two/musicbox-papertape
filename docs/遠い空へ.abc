@@ -4,33 +4,33 @@ T:遠い空へ
 Q:"Allegro"
 M:3/4
 L:1/4
-K:C %org 1=D
+K:D
 V:1
 |z3|z3|z3|z3|z3|z3|
-|             z3|z B    A    |B2      ^f    |^c>d               ^c/A/  |
-|B>^c    d/e/   |a/b/ a2     |B2      ^f    |a         ^c       A      |
-|B2      B      |e^f   ^c    |B2      ^f    |^c>d               ^c/A/  |
-|B>^c    d/e/   |a/b/ a2     |B2      ^f    |a         ^c       A      |
-|B>A     ^c     |B3-         |B3            |z         ^f       a      |
-|b2      a/b/   |a-a   e     |^fa     ^c    |d2                 d/e/   |
-|^f2     e/^f/  |e2    d/e/  |^fg     a     |^a        b        ^c'    |
-|b2      a/b/   |a2    e     |^fa     ^c'   |d'e'               ^f'    |
-|^f'2    e'/d'/ |^c'2  a/^c'/|d'2     ^c'/b/|^a        b        ^c'    |
-|^f'2    e'/d'/ |^c'a  ^f    |b3-           |b3                        |
-|        Z5     |   z3|    z3|        z3| z3|                        z3|
-|     z3|     z3|   z3|    z3|            z3|                        z3|
-|     z3|     z3|   z3|    z3|            z3|B2                 ^f     |
-|^c>d    ^c/A/  |B>^c  d/e/  |a/b/ a2       |B2                 ^f     |
-|a^c     A      |B3-         |B           z2|B2                 ^f     |
-|^c>d    ^c/A/  |B>^c  d/e/  |a/b/ a2       |B2                 ^f     |
-|a^c     A      |B>A   ^c    |B3            |                        z3|
-|             z3|z^f   a     |b2      a/b/  |a-        a        e      |
-|^fa     ^c     |d2    d/e/  |^f2     e/^f/ |e2                 d/e/   |
-|^fg     a      |^ab   ^c'   |b2      a/b/  |a2                 e      |
-|^f a    ^c'    |d'e'  ^f'   |^f'2    e'/d'/|^c'2               a/^c'/ |
-|d'2     ^c'/b/ |^ab   ^c'   |^f'2    e'/d'/|^c'a               ^f     |
-|b3-            |b3          |b3            |^c'3                      |
-|d'd'    ^c'    |a^f   e     |d3-           |d3                        |
-|^f'>^f' e'/^f'/|a'^c' a     |^f'>^f' e'/b'/|^c''/d''/ ^c''/a'/ e'     |
-|^f'2    e'/d'/ |^c'a  ^f    |b3-           |b3                        |
+|          z3|z B  A    |B2     f    |c>d              c/A/ |
+|B>c   d/e/  |a/b/ a2   |B2     f    |a        c       A    |
+|B2    B     |ef   c    |B2     f    |c>d              c/A/ |
+|B>c   d/e/  |a/b/ a2   |B2     f    |a        c       A    |
+|B>A   c     |B3-       |B3          |z        f       a    |
+|b2    a/b/  |a-a  e    |fa     c    |d2               d/e/ |
+|f2    e/f/  |e2   d/e/ |fg     a    |^a       b       c'   |
+|b2    a/b/  |a2   e    |fa     c'   |d'e'             f'   |
+|f'2   e'/d'/|c'2  a/c'/|d'2    c'/b/|^a       b       c'   |
+|f'2   e'/d'/|c'a  f    |b3-         |b3                    |
+|    Z5      |   z3|  z3|    z3|   z3|                    z3|
+|    z3|   z3|   z3|  z3|          z3|                    z3|
+|    z3|   z3|   z3|  z3|          z3|B2               f    |
+|c>d   c/A/  |B>c  d/e/ |a/b/  a2    |B2               f    |
+|ac    A     |B3-       |B         z2|B2               f    |
+|c>d   c/A/  |B>c  d/e/ |a/b/  a2    |B2               f    |
+|ac    A     |B>A  c    |B3          |                    z3|
+|          z3|zf   a    |b2    a/b/  |a-       a       e    |
+|fa    c     |d2   d/e/ |f2    e/f/  |e2               d/e/ |
+|fg    a     |^ab  c'   |b2    a/b/  |a2               e    |
+|f a   c'    |d'e' f'   |f'2   e'/d'/|c'2              a/c'/|
+|d'2   c'/b/ |^ab  c'   |f'2   e'/d'/|c'a              f    |
+|b3-         |b3        |b3          |c'3                   |
+|d'd'  c'    |af   e    |d3-         |d3                    |
+|f'>f' e'/f'/|a'c' a    |f'>f' e'/b'/|c''/d''/ c''/a'/ e'   |
+|f'2   e'/d'/|c'a  f    |b3-         |b3                    |
 |
