@@ -18,4 +18,4 @@ Reference
 API
 ===
 * GET ``https://ungh.cc/repos/holy-two/musicbox-papertape/files/main``
-* GET ``https://ungh.cc/repos/holy-two/musicbox-papertape/files/main/docs/{filename}``
+* GET ``https://ungh.cc/repos/holy-two/musicbox-papertape/files/main/tapes/{filename}``
