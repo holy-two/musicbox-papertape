@@ -7,19 +7,19 @@ L:1/4
 K:F
 V:1 clef=treble snm="T"
 V:2 clef=bass   snm="B" octave=-2
-[V:1] |z2                    E/D/E/G/              |     [DA]G/A/              E>C                |        D/E/F/G/              DF/G/               |
-[V:2] |                                           Z|     [Bf]2                 [cg]2              |        [da]2                 [da][cg]            |
-[V:1] |[DA]D                 [EG]F/E/              |!<(! [DF]3 !<)!       !mp! [EA]/c/            |        [Fd]f/e/              [Ec]>A              |
-[V:2] |[Bf]2                 [cg]2                 |     [da][cg][Bf]          [Ae]               |        [Bf]d'                [cg]d'              |
-[V:1] |[^CEG]/A/^c/d/        [Fd][Gd]/e/           |!<(! [Af][Bg]/f/           [ce]/d/ [Ac]      ||   !<)! d4                                        \
-                                                                                                    & !mf! [FA]/>[FA]>[FA]       [G=B]/>[GB]>[GB]    |
-[V:2] |[^cg]e'               [da][=cg]             |     [Bf]2                 [cg][Ae]          ||        D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/ |
-[V:1] |[Ac]/>[Ac]>[Ac]       [G=B]/>[GB]>[GB]      |     [FA]/>[FA]>[FA]       [G=B]/>[GB]>[GB]   |        [Ac]/>[Ac]>[Ac]       [=Bd]/>[Bd]>D      ||
-[V:2] |D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/   |     D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/|        D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/||
-[V:1] |[FA][A,D]/[FA]/       [G=B][DG]             |     [DA]>G/F//            [DG][A,D]/[CE]/    |        [DF][EG]/[DF]/        [CE][G,C]           |
-[V:2] |D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/   |     D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/|        B,/[df]//B,// F/[df]/ C/[eg]//C// G/[eg]/ |
-[V:1] |[A,D]>E/F//           [CE]>[CE]             |     [DF][FA]/[Ac]/        [=Bd][GB]          |        [Ac]>=B/A//           [EG][EG]/B/         |
-[V:2] |B,/[df]//B,// F/[df]/ C/[eg]//C// G/[eg]/   |     D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/|        D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/ |
-[V:1] |[FA]/[G=B]/[Ac]/[FA]/ [GB]/[DG]/[=B,E]/[DG]/|     A2                    [E^CA,]>x          \
-                                                       & [ED]/>[ED]>[ED]       x2                 |
-[V:2] |F/[fa]//F// c/[fa]/   G/[g=b]//G// d/[gb]/  |     A/[ea]//A//z// E//D//E// A,/>A,/        x|
+[V:1] z2                    E/D/E/G/              |     [DA]G/A/              E>C                |        D/E/F/G/              DF/G/               |
+[V:2]                                            Z|     [Bf]2                 [cg]2              |        [da]2                 [da][cg]            |
+[V:1] [DA]D                 [EG]F/E/              |!<(! [DF]3 !<)!       !mp! [EA]/c/            |        [Fd]f/e/              [Ec]>A              |
+[V:2] [Bf]2                 [cg]2                 |     [da][cg][Bf]          [Ae]               |        [Bf]d'                [cg]d'              |
+[V:1] [^CEG]/A/^c/d/        [Fd][Gd]/e/           |!<(! [Af][Bg]/f/           [ce]/d/ [Ac]      ||   !<)! d4                                        \
+                                                                                                   & !mf! [FA]/>[FA]>[FA]       [G=B]/>[GB]>[GB]    |
+[V:2] [^cg]e'               [da][=cg]             |     [Bf]2                 [cg][Ae]          ||        D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/ |
+[V:1] [Ac]/>[Ac]>[Ac]       [G=B]/>[GB]>[GB]      |     [FA]/>[FA]>[FA]       [G=B]/>[GB]>[GB]   |        [Ac]/>[Ac]>[Ac]       [=Bd]/>[Bd]>D      ||
+[V:2] D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/   |     D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/|        D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/||
+[V:1] [FA][A,D]/[FA]/       [G=B][DG]             |     [DA]>G/F//            [DG][A,D]/[CE]/    |        [DF][EG]/[DF]/        [CE][G,C]           |
+[V:2] D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/   |     D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/|        B,/[df]//B,// F/[df]/ C/[eg]//C// G/[eg]/ |
+[V:1] [A,D]>E/F//           [CE]>[CE]             |     [DF][FA]/[Ac]/        [=Bd][GB]          |        [Ac]>=B/A//           [EG][EG]/B/         |
+[V:2] B,/[df]//B,// F/[df]/ C/[eg]//C// G/[eg]/   |     D/[df]//D// A/[cf]/   D/[dg]//D// A/[cg]/|        D/[da]//D// A/[ca]/   D/[dg]//D// A/[cg]/ |
+[V:1] [FA]/[G=B]/[Ac]/[FA]/ [GB]/[DG]/[=B,E]/[DG]/|     A2                    [E^CA,]>x          \
+                                                      & [ED]/>[ED]>[ED]       x2                 |
+[V:2] F/[fa]//F// c/[fa]/   G/[g=b]//G// d/[gb]/  |     A/[ea]//A//z// E//D//E// A,/>A,/        x|
