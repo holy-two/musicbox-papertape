@@ -1,3 +1,6 @@
 {
-  "recommendations": ["softaware.abc-music"]
+  "recommendations": [
+    "softaware.abc-music",
+    "pkief.material-icon-theme"
+  ]
 }

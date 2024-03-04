@@ -1,9 +1,10 @@
 {
-    "workbench.colorTheme": "ABC Music",
-    "[abc]": {
-        "editor.fontSize": 12,
-        "editor.tabSize": 1,
-        "editor.guides.indentation": false,
-        "editor.wordBasedSuggestions": "off"
-    }
+  "workbench.colorTheme": "ABC Music",
+  "workbench.iconTheme": "material-icon-theme",
+  "[abc]": {
+    "editor.fontSize": 12,
+    "editor.tabSize": 1,
+    "editor.guides.indentation": false,
+    "editor.wordBasedSuggestions": "off"
+  }
 }
