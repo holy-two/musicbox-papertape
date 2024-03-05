@@ -4,7 +4,7 @@ T:遠い空へ
 Q:"Allegro"
 M:3/4
 L:1/4
-K:D
+K:Bm
 V:1 snm="T"
 V:2 snm="B" octave=-2
 [V:1][K:clef=treble] !arpeggio![Bdf]b2-|b3|!arpeggio![dfa]e2-|e3|!arpeggio![Bdf]b>d'-|d'<a'-a'|z/!arpeggio![fac']/ d'/c'/ a/e/|f<a-a|
@@ -36,7 +36,7 @@ T:遠い空へ(simplified)
 Q:"Allegro"
 M:3/4
 L:1/4
-K:D
+K:Bm
 V:1
 z3|z3|z3|z3|z3|z3|
           z3|z B  A    |B2     f    |c>d              c/A/ |
