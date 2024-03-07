@@ -5,8 +5,8 @@ Q:"Allegro"
 M:3/4
 L:1/4
 K:Bm
-V:1 snm="T"
-V:2 snm="B" octave=-2
+V:1
+V:2 octave=-2
 [V:1][K:clef=treble]   !arpeggio![Bdf]b2-|b3|!arpeggio![dfa]e2-|e3|!arpeggio![Bdf]b>d'-|d'<a'-a'|z/!arpeggio![fac']/ d'/c'/ a/e/|f<a-a|
 [V:2][K:clef=bass]     g3-               |g3|f3-               |f3|g3-                 |g3      |z/f-f3/-                       |f3   |
 [V:1][K:clef=treble]   zBA|B2 f  |c>d c/A/|B>c d/e/|a/b/ a2|[BDF]2 f|acA|[BF]2 [E^G]|   
