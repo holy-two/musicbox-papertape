@@ -1,0 +1,23 @@
+%abc-2.2
+X:1
+T:雲流れ
+Q:"Largo"
+M:4/4
+L:1/4
+K:Cm
+V:1 
+V:2 octave=-2
+[V:1][K:clef=treble+8] f/g/ b//c'//g//f// g//c//e//f// d//e//d//B//|c/G//B// c//e//f//e// f/f//e// f//b//g/-    |
+[V:2][K:clef=bass+8]   z    A//c//e/      B//d//f/     c//e//g/    |z        A//c//e/     B//d//f/ c//e//g//b//-|
+[V:1][K:clef=treble+8] g/g//b//     c'//c'//b//c'// g/g//e// f//g//f//e//|c/c//B// c/f//g//  b//g//b/ c'  |z4|
+[V:2][K:clef=bass+8]   b//g//e//c// A//c//e/        B//d//f/ c/B/        |=A/z/    _A//c//e/ B//d//f/ [ce]|z4|
+[V:1][K:clef=treble] c//d//e/> c3/  g/f3//    d/d//|e//f//f/> g4              g/a//    |
+[V:2][K:clef=bass]   z/    A,//C//E z/B,//D//F     |z/    C//E//G z/C//E// G           |
+[V:1][K:clef=treble] g//e//c/> cc// d//e//e/> dd// |e//f//f/> g4-             g3//     |
+[V:2][K:clef=bass]   z/    A,//C//E z/B,//D//F     |z/    C//E//G z/C//E// G//B//c//e//|
+[V:1][K:clef=treble] z/           [bb']//[c'c'']// [gg']//[ff']// [gg']2-[gg']/      |[dd']//[ee']//[dd']//[ee']// [dd']//[Bb]//[cc'] z/>B,/ [Cc]//[Ee]//|
+[V:2][K:clef=bass]   f//g//       A,//C//      E                   z/B,//D//F        |z/            C//E//         G             z/   C//E//G            |
+[V:1][K:clef=treble] [Ff]//[Gg]// [bb']//[c'c'']// [gg']//[ff']// [gg']2-[gg']/      |[ee']/[dd']/ >[cc']>z [cc']//[ee']// [gg']//[bb']//[c'c'']/     |z4|
+[V:2][K:clef=bass]   z/           A,//C//          E               z/B,//D// F//B//d/|z/    C//E//G       z2                                          |z4|
+[V:1][K:clef=treble] 
+[V:2][K:clef=bass]
