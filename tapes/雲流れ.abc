@@ -31,15 +31,15 @@ V:2 octave=-2
 [V:2][K:Cm clef=bass] z/    A,//C// E/    B,//D// F/C//E//     G       |z/    A,//C// E/    B,//D// F/C//E//     G//B/G//|
 [V:1][K:clef=treble]  g//b//c'//c'// b//c'//g/ f//e//f//g// f//e//c/|c//B//c/     f//g//b//g// b<c'   |:[V:1][K:C#m clef=treble]
 [V:2][K:Cm clef=bass] E//C//A,//C//  E/B,//D// F/[CG]/[B,F]/[=A,E]/ |z/    A,//C//F/ B,//D//   F<[ceg]|:[V:2][K:C#m clef=bass]
-[V:1][K:clef=treble]  [bb']//[c'c'']//[gg']//[ff']// [gg']//[cc']//[ee']//[ff']// [dd']//[ee']//[dd']//[Bb]// [cc']/[Gg]//[Bb]//|[cc']//[ee']//[ff']//[ee']// [ff']/[ff']//[ee']// [ff']//[bb']//[gg'] [gg']//[bb']//|
-[V:2][K:Cm clef=bass] A,//C//E/                      B,//D//F/                    C//E//G/                    z                 |A,//C//E/                    B,//D//F/             C//E//G//B/     G//E//C//        |
-[V:1][K:clef=treble]  [c'c'']//[c'c'']//[bb']//[c'c'']// [gg']/[gg']//[ee']// [ff']//[gg']//[ff']//[ee']// [cc']/[cc']//[Bb]//|[cc']/[ff']//[gg']// [bb']//[gg']//[bb']/ [c'g'c'']2|
-[V:2][K:Cm clef=bass] A,//C//E/                          B,//D//F/            [CG]/[B,F]/[_B,F]/-[B,F]/                       |A,//C//E/            B,//D//F/            [CG]2     |
-[V:1][K:clef=treble]  c//d//e/>               c> gf/>               dd//|e//f//f3//             g2                g/ a//|
-[V:2][K:Cm clef=bass] z/    [A,A]//[Cc]// [Ee]   z/[B,B]//[Dd]//[Ff]    |z/    [Cc]//[Ee]//[Gg] z/[Cc]//[Ee]//[Gg]      |
-[V:1][K:clef=treble]  g//e//c/>               c c// d//e//e/>              dd//|e//f//f3//            g2-                   g3//                |
-[V:2][K:Cm clef=bass] z/    [A,A]//[Cc]// [Ee]      z/    [B,B]//[Dd]//[Ff]    |z/    [Cc]//[Ee]//[Gg] z/[Cc]//[Ee]// [Gg]//[Bb]//[cc']//[ee']//|
-[V:1][K:clef=treble]  z/             [bb']//[c'c'']// [gg']//[ff']//[gg']2-                [gg']/|[dd']//[ee']//[dd']//[ee']// [dd']//[Bb]// [cc']2-                        [cc']/|
-[V:2][K:Cm clef=bass] [ff']//[gg']// [A,A]//[Cc]//    [Ee]              z/[B,B]//[Dd]//[Ff]      |z/            [Cc]//[Ee]//   [Gg]              z/[Cc]//[Ee]// [Gg]//[Bb]//c//e//|
-[V:1][K:clef=treble]  z/     b//c'// g//f//g2-              g/|[ee']<d'/    c'2-           c'3// :|
-[V:2][K:Cm clef=bass] f//g// A,//C// E      z/B,//D// F//B//d/|z/    C//E//G  z/ c//e// g//b//c'/:|
+[V:1][K:C#m clef=treble] [bb']//[c'c'']//[gg']//[ff']// [gg']//[cc']//[ee']//[ff']// [dd']//[ee']//[dd']//[Bb]// [cc']/[Gg]//[Bb]//|[cc']//[ee']//[ff']//[ee']// [ff']/[ff']//[ee']// [ff']//[bb']//[gg'] [gg']//[bb']//|
+[V:2][K:C#m clef=bass]   A,//C//E/                      B,//D//F/                    C//E//G/                    z                 |A,//C//E/                    B,//D//F/             C//E//G//B/     G//E//C//        |
+[V:1][K:clef=treble]   [c'c'']//[c'c'']//[bb']//[c'c'']// [gg']/[gg']//[ee']// [ff']//[gg']//[ff']//[ee']// [cc']/[cc']//[Bb]//|[cc']/[ff']//[gg']// [bb']//[gg']//[bb']/ [c'g'c'']2|
+[V:2][K:C#m clef=bass]  A,//C//E/                          B,//D//F/            [CG]/[B,F]/[_B,F]/-[B,F]/                       |A,//C//E/            B,//D//F/            [CG]2     |
+[V:1][K:clef=treble]   c//d//e/>               c> gf/>               dd//|e//f//f3//             g2                g/ a//|
+[V:2][K:C#m clef=bass] z/    [A,A]//[Cc]// [Ee]   z/[B,B]//[Dd]//[Ff]    |z/    [Cc]//[Ee]//[Gg] z/[Cc]//[Ee]//[Gg]      |
+[V:1][K:clef=treble]   g//e//c/>               c c// d//e//e/>              dd//|e//f//f3//            g2-                   g3//                |
+[V:2][K:C#m clef=bass] z/    [A,A]//[Cc]// [Ee]      z/    [B,B]//[Dd]//[Ff]    |z/    [Cc]//[Ee]//[Gg] z/[Cc]//[Ee]// [Gg]//[Bb]//[cc']//[ee']//|
+[V:1][K:clef=treble]   z/             [bb']//[c'c'']// [gg']//[ff']//[gg']2-                [gg']/|[dd']//[ee']//[dd']//[ee']// [dd']//[Bb]// [cc']2-                        [cc']/|
+[V:2][K:C#m clef=bass] [ff']//[gg']// [A,A]//[Cc]//    [Ee]              z/[B,B]//[Dd]//[Ff]      |z/            [Cc]//[Ee]//   [Gg]              z/[Cc]//[Ee]// [Gg]//[Bb]//c//e//|
+[V:1][K:clef=treble]   z/     b//c'// g//f//g2-              g/|[ee']<d'/    c'2-           c'3// :|
+[V:2][K:C#m clef=bass] f//g// A,//C// E      z/B,//D// F//B//d/|z/    C//E//G  z/ c//e// g//b//c'/:|

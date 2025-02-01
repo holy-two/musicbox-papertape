@@ -21,8 +21,8 @@ V:2 octave=-2
 [V:2][K:Bm clef=bass]  g/d'/[f'b']2|f/c'/[e'a']2|a/e'/ a'/c''/a'|b/d'/[f'a']2|e/b/ d'/b'/-b'|f/c'/ e'/a'/-a'|
 [V:1][K:clef=treble]   d'2       c'/b/|^a     b       c'|f'2   e'/d'/|c'               a            f |b3                 |z3|
 [V:2][K:Bm clef=bass]  g/d'/ f'/b'/-b'|^a/c'/ e'/^a'/-a'|g/d'/[f'b']2|a/c'/ !arpeggio![e'a'c'']/a'/-a'|B/f/   b/a'/ f'/d'/|b3|
-[V:1][K:clef=treble]   G/B/d2|A/c/e2|B/d/ f2|z2 z  |[K:clef=treble+8]  f/B/ d/B/ d/B/|d/B/ e/B/ d/B/|f/B/ d/B/ d/B/|
-[V:2][K:Bm clef=bass]  [gd']3|[fc']3|[Bfb]3-|[Bfb]3|[K:Bm clef=bass+8] g3-           |g3            |f3-           |
+[V:1][K:clef=treble]   G/B/d2|A/c/e2|B/d/ f2|z2 z  |[K:clef=treble+8] f/B/ d/B/ d/B/|d/B/ e/B/ d/B/|f/B/ d/B/ d/B/|
+[V:2][K:Bm clef=bass]  [gd']3|[fc']3|[Bfb]3-|[Bfb]3|[K:clef=bass+8]   g3-           |g3            |f3-           |
 [V:1][K:clef=treble+8]  d/B/ e/B/ d/B/|f/B/ d/B/ d/B/|d/B/ e/B/ d/B/|f/B/ d/B/ d/B/|e/B/ a/B/ e/B/|f/B/ d/B/ d/B/    |
 [V:2][K:Bm clef=bass+8] f3            |           g3-|g3            |           f3-|f3            |!arpeggio![FGBd]3-|
 [V:1][K:clef=treble+8]  d/B/ e/B/ d/B/|f/B/ d/B/ d/B/    |d/B/ e/B/ d/B/|     f/B/ d/B/ d/B/|d/B/ e/B/ d/B/|f/B/ d/B/ d/B/     |
@@ -41,8 +41,8 @@ V:2 octave=-2
 [V:2][K:Bm clef=bass]  G/d/ f/b/ f/d/|F/c/ g/b/ g/c/|A/e/ a/c'/ a/e/   |B/f/  b/d'/ b/f/  |E/B/ d/g/    d/B/  |F/c/ g/b/ g/c/    |
 [V:1][K:clef=treble]   [gbd']>[gd'] c'/b/|[f^a][fb][fac']|[gbf']>[gf'] e'/d'/|[ec'][ca][Af]|[dfb]3           |z3|
 [V:2][K:Bm clef=bass]  G/d/ f/b/    f/d/ |F/c/ f/^a/c'   |G/d/ f/b/    c'/d'/|F/c/ f/a/c'  |B/f/ b/a'/ f'/d'/|b3|
-[V:1][K:clef=treble]   !arpeggio![DFB]3|!arpeggio![CEAc]3|!arpeggio![B,DFB][dd'][cc']|[Aa][Ff][Ee]|[Dd]3-|[Dd]3|[K:clef=treble+8]  [Bf]>f e/f/|[Aa]cA|[Bf]>f e/b/|
-[V:2][K:Bm clef=bass]            [dg]3 |          [cf]3  |                     [Bf]3-|      [Bf]3-|[Bf]3-|[Bf]3|[K:Bm clef=bass+8] G3         |F3    |G3         |
+[V:1][K:clef=treble]   !arpeggio![DFB]3|!arpeggio![CEAc]3|!arpeggio![B,DFB][dd'][cc']|[Aa][Ff][Ee]|[Dd]3-|[Dd]3|[K:clef=treble+8] [Bf]>f e/f/|[Aa]cA|[Bf]>f e/b/|
+[V:2][K:Bm clef=bass]            [dg]3 |          [cf]3  |                     [Bf]3-|      [Bf]3-|[Bf]3-|[Bf]3|[K:clef=bass+8]   G3         |F3    |G3         |
 [V:1][K:clef=treble+8]  c'/d'/ c'/a/e|!arpeggio![GBf]2e/d/|cAF-|F2!arpeggio![EFB]-|[EFB]3-|[EFB]3|[K:clef=treble]  z3|z3|z3|
 [V:2][K:Bm clef=bass+8] F3           |          G3        | F3-|F2             B,-|B,3-   |B,3   |[K:Bm clef=bass] z3|z3|z3|
 
