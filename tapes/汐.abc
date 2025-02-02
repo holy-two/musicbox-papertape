@@ -1,0 +1,21 @@
+%abc-2.2
+X:1
+T:汐
+Q:"andante"
+M:4/4
+L:1/4
+K:D#min
+V:1 clef=treble
+V:2 clef=bass octave=-2
+[V:1] z3                          c          |!arpeggio![cfa]3   c/a/    |[db]3                        [db]/c'/|[fa]4                             |
+[V:2] z4                                     |F/c/f/g/     a2            |F/c/d/f/            b2               |F/c/f/g/              a2          |
+[V:1] z3                          c/g/       |!arpeggio![cfa]3   c/a/    |[dfb]3                       [db]/c'/|[cfa]3                        [Ge]|
+[V:2] F/c/d/f/             b2                |F/c/f/g/     a2            |F/c/d/f/            b2               |F/c/f/g/              a       g   |
+[V:1] [Acf][Acf]           [Ge]/c/A/G/       |[DF]3              [DFB]/A/|[CEG]2              [=DEG=d] [DA]/E/ |[DF]       [=CG]/D/   [^CE]   F/C/|
+[V:2] d>d'                 A      a          |B/f/b/c'/    d'/b/ [Bb]    |c/g/c'/g/           A        [Ee]    |[Dd]       [=C=c]     [^C^c]  [Aa]|
+[V:1] D/C/D/F/   !arpeggio![DFB]  B/A/       |C/G,/C/[DF]/ [CE]2         |[CFG]2              [FA]     F/E/    |[B,E]/F/              D2      C   |
+[V:2] b/f/b/f/             B2                |c2           c2            |F/c/f/             c'      f/c'/f/   |[Bb]/f/b/f/           b/ff/       |
+[V:1] [CFG]2               [FA]   F/E/       |[B,E]/F/ D2        C/D/    |!arpeggio![A,CE][A,C][CF]/ E/[DF]/C/ |[B,D]      [B,DFB]/A/ [CEG]/F/E/G/|
+[V:2] F/c/f/c'/            f/c'/[fac']/[cc']/|[Bb]/f/b/f/  b/f/b/f/      |A/e/A/e/                     d<a     |B,/F/      [Bf]       c/g/    c'  |
+[V:1] [A,CF][B,D]          [A,C]  [G,B,]     |[F,A,] G/A/!arpeggio![FAe]2|z4                                   |z4                                |
+[V:2] F/c/f/c/             F/c/[cf]/c/       |F/c/f/[Fc]/          [Ff]2 |z4                                   |z4                                |
