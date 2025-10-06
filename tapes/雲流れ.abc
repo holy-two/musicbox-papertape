@@ -8,9 +8,9 @@ K:Cm
 V:1
 V:2
 [V:1][K:clef=treble+8]    f/g/ b//c'//g//f// g//c//e//f// d//e//d//B//|c/G//B// c//e//f//e// f/f//e// f//b//g/-    |
-[V:2][K:Cm clef=treble+8] z    A//c//e/      B//d//f/     c//e//g/    |z        A//c//e/     B//d//f/ c//e//g//b//-|
+[V:2][K:Cm clef=treble]   z    A//c//e/      B//d//f/     c//e//g/    |z        A//c//e/     B//d//f/ c//e//g//b//-|
 [V:1][K:clef=treble+8]    g/g//b//     c'//c'//b//c'// g/g//e// f//g//f//e//|c/c//B// c/f//g//  b//g//b/ c'  |z4|
-[V:2][K:Cm clef=treble+8] b//g//e//c// A//c//e/        B//d//f/ c/B/        |=A/z/    _A//c//e/ B//d//f/ [ce]|z4|
+[V:2][K:Cm clef=treble]   b//g//e//c// A//c//e/        B//d//f/ c/B/        |=A/z/    _A//c//e/ B//d//f/ [ce]|z4|
 [V:1][K:clef=treble]      c//d//e> <c/   g<f/      d/d//|e//f//f/> g4              g/a//    |
 [V:2][K:Cm clef=treble]   z/    A,//C//E z/B,//D//F     |z/    C//E//G z/C//E// G           |
 [V:1][K:clef=treble]      g//e//c/> cc// d//e//e/> dd// |e//f//f/> g4-             g3//     |
