@@ -2,6 +2,8 @@
 💿 music-box-paper-tape
 =======================
 
+Note: All transcriptions in this repository are handwritten without AI generation; AI is used only for drafting commit messages.
+
 
 feature
 =======
