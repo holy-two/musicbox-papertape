@@ -5,7 +5,7 @@ Q:"Andante"
 M:4/4
 L:1/4
 K:C#min
-V:1
+V:1 clef=treble+8
 V:2
 [V:1] !arpeggio![Cc]!arpeggio![Dd]/!arpeggio![Ee]/!arpeggio![Bb]/|!arpeggio![Gg]!arpeggio![Gg]/!arpeggio![Ff]//!arpeggio![Gg]//-[Gg]2| z1[Ff]/[Gg]/          [Bb]/[Ff]/[Dd]/[Ee]/|
 [V:2]                                  z2                      <z|           A,/C/E/C/                                       E/G/c/G/| A,/C/F/D/                         F/B/d/B/|
