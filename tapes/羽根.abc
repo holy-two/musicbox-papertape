@@ -20,7 +20,7 @@ V:2
 [V:1]        [dd']4                                              |          [cc']2>                                            [cc']2|[dd']4                                     |
 [V:2]         C/E/G/E/                                   c/G/E/G/|           C/E/G/E/                                        c/G/E/G/| C/F/G/F/                          c/G/F/G/|
 [V:1]        [cc']4                                              |[K:Bbm]    z>[Bb]                                   [Bb]/>[Bb]>[Bb]|[Bb]/>[Aa]>[Aa]-           [Aa]/>[Bb]>[cc']|
-[V:2][K:C#m]  C/F/G/B/                                         c2|[K:Bbm]    G/B/e/[df]/-                                       [df]2| A/c/e/[Ac]/-                         [Ac]2|
+[V:2][K:C#m clef=treble] C/F/G/B/                              c2|[K:Bbm]    G/B/e/[df]/-                                       [df]2| A/c/e/[Ac]/-                         [Ac]2|
 [V:1]        [dd']/>[cc']>                        [Bb]2[Ff]/[Ff]-|          [Ff]2                                           [Ee][Dd]-|[Dd]z/[Bb]/                 [Bb]/>[Bb]>[Bb]|
 [V:2]         B/d/f/[Ac]/-                                  [Ac]2|           B/d/f/b/                                        e/a/B/d/| G/B/e/[df]/-                         [df]2|
 [V:1]        [Bb]/>[Aa]>[Aa]-                     [Aa]/>[Ff]>[Aa]|          [Bb]/>[cc']>[dd']-                                 [dd']2| z4                                        |
