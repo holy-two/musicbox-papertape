@@ -7,29 +7,35 @@ L:1/4
 K:C#min
 V:1 clef=treble+8
 V:2
-[V:1] !arpeggio![Cc]!arpeggio![Dd]/!arpeggio![Ee]/!arpeggio![Bb]/|!arpeggio![Gg]!arpeggio![Gg]/!arpeggio![Ff]//!arpeggio![Gg]//-[Gg]2| z1[Ff]/[Gg]/          [Bb]/[Ff]/[Dd]/[Ee]/|
-[V:2]                                  z2                      <z|           A,/C/E/C/                                       E/G/c/G/| A,/C/F/D/                         F/B/d/B/|
-[V:1]        [Dd]        [Dd]/[Cc]//[G,G]//-               [G,G]2|           z>[Cc]2                                  [Dd]/[Ee]/[Bb]/|[Gg][Gg]/[Ff]//[Gg]//-                [Gg]2|
-[V:2]         C/E/G/d/                                   e/d/B/G/|           C/E/G/c/                                       B,/D/F/B/| A,/C/E/C/                         E/G/c/G/|
-[V:1]         z          [Ff]/[Gg]/         [Bb]/[Gg]/[Bb]/[ee']/|          [dd']/>[cc']>[Gg]4                                  [Ff]/|[Gg][Bb]                         [cc'][dd']|
-[V:2]         C/D/F/D/                                   F/B/d/B/|           C/E/G/d/                                        e/d/B/G/| C/E/G/c/                         B,/D/F/B/|
-[V:1]        [Gg]        [Gg]/[Ff]//[Gg]//-                 [Gg]2|           z                    [Ff]/[Gg]/     [Bb]/[Ff]/[Dd]/[Ee]/|[Dd][Dd]/[Cc]//[G,G]//-              [G,G]2|
-[V:2]         A,/C/E/C/                                  E/G/c/G/|           B,/D/F/D/                                      F/B/d/B/ | C/E/G/d/                          e/d/B/G/|
-[V:1]         z>[Cc]2                             [Dd]/[Ee]/[Bb]/|          [Gg]          [Gg]/[Ff]//[Gg]//-                    [Gg]2| z[Ff]/[Gg]/          [Bb]/[Gg]/[Bb]/[ee']/|
-[V:2]         C/E/G/c/                                  B,/D/F/B/|           A,/C/E/C/                                       E/G/c/G/| B,/D/F/D/                         F/B/d/B/|
-[V:1]        [dd']4                                              |          [cc']2>                                            [cc']2|[dd']4                                     |
-[V:2]         C/E/G/E/                                   c/G/E/G/|           C/E/G/E/                                        c/G/E/G/| C/F/G/F/                          c/G/F/G/|
-[V:1]        [cc']4                                              |[K:Bbm]    z>[Bb]                                   [Bb]/>[Bb]>[Bb]|[Bb]/>[Aa]>[Aa]-           [Aa]/>[Bb]>[cc']|
-[V:2][K:C#m clef=treble] C/F/G/B/                              c2|[K:Bbm]    G/B/e/[df]/-                                       [df]2| A/c/e/[Ac]/-                         [Ac]2|
-[V:1]        [dd']/>[cc']>                        [Bb]2[Ff]/[Ff]-|          [Ff]2                                           [Ee][Dd]-|[Dd]z/[Bb]/                 [Bb]/>[Bb]>[Bb]|
-[V:2]         B/d/f/[Ac]/-                                  [Ac]2|           B/d/f/b/                                        e/a/B/d/| G/B/e/[df]/-                         [df]2|
-[V:1]        [Bb]/>[Aa]>[Aa]-                     [Aa]/>[Ff]>[Aa]|          [Bb]/>[cc']>[dd']-                                 [dd']2| z4                                        |
-[V:2]         A/c/e/[Ac]/-                                  [Ac]2|           B/d/f/[Bd]/-                                       [Bd]2| B/d/f/b/                          A/c/e/a/|
-[V:1]         z> [Bb]                             [Bb]/>[Bb]>[Bb]|          [Bb]/>[Aa]>[Aa]-                         [Aa]/>[Bb]>[cc']|[dd']/>[cc']>[Bb]2               [Ff]/[Ff]-|
-[V:2]         G/B/e/[df]/-                                  [df]2|           A/c/e/[Ac]/-                                       [Ac]2| B/d/f/[Bd]/-                         [Bd]2|
-[V:1]        [Ff]2                                      [Ee][Dd]-|          [Dd]z/[Ff]/                               [Ff]/>[Ff]>[Ff]|[Ee]/>[Ff]>[Aa]2                  [Ff][Aa]/|
-[V:2]         B/d/f/b/                                   e/a/B/d/|           G/B/e/[df]/-                                       [df]2| A/c/e/[Ac]/-                        [GAc]2|
-[V:1]        [Bb]2                                     [dd'][cc']|          [Bb]2>                                              [Aa]2|
-[V:2]         B/d/f/[Bd]/-                                  [Bd]2|           B/e/f/a/-                                             a2|
+[V:1] !arpeggio![Cc]!arpeggio![Dd]/!arpeggio![Ee]/!arpeggio![Bb]/|!arpeggio![Gg]!arpeggio![Gg]/!arpeggio![Ff]//!arpeggio![Gg]//-[Gg]2|        z1[Ff]/[Gg]/          [Bb]/[Ff]/[Dd]/[Ee]/|
+[V:2]                                  z2                      <z|           A,/C/E/C/                                       E/G/c/G/|        A,/C/F/D/                         F/B/d/B/|
+[V:1]        [Dd]        [Dd]/[Cc]//[G,G]//-               [G,G]2|           z>[Cc]2                                  [Dd]/[Ee]/[Bb]/|       [Gg][Gg]/[Ff]//[Gg]//-                [Gg]2|
+[V:2]         C/E/G/d/                                   e/d/B/G/|           C/E/G/c/                                       B,/D/F/B/|        A,/C/E/C/                         E/G/c/G/|
+[V:1]         z          [Ff]/[Gg]/         [Bb]/[Gg]/[Bb]/[ee']/|          [dd']/>[cc']>[Gg]4                                  [Ff]/|       [Gg][Bb]                         [cc'][dd']|
+[V:2]         C/D/F/D/                                   F/B/d/B/|           C/E/G/d/                                        e/d/B/G/|        C/E/G/c/                         B,/D/F/B/|
+[V:1]        [Gg]        [Gg]/[Ff]//[Gg]//-                 [Gg]2|           z                    [Ff]/[Gg]/     [Bb]/[Ff]/[Dd]/[Ee]/|       [Dd][Dd]/[Cc]//[G,G]//-              [G,G]2|
+[V:2]         A,/C/E/C/                                  E/G/c/G/|           B,/D/F/D/                                      F/B/d/B/ |        C/E/G/d/                          e/d/B/G/|
+[V:1]         z>[Cc]2                             [Dd]/[Ee]/[Bb]/|          [Gg]          [Gg]/[Ff]//[Gg]//-                    [Gg]2|        z[Ff]/[Gg]/          [Bb]/[Gg]/[Bb]/[ee']/|
+[V:2]         C/E/G/c/                                  B,/D/F/B/|           A,/C/E/C/                                       E/G/c/G/|        B,/D/F/D/                         F/B/d/B/|
+[V:1]        [dd']4                                              |          [cc']2>                                            [cc']2|       [dd']4                                     |
+[V:2]         C/E/G/E/                                   c/G/E/G/|           C/E/G/E/                                        c/G/E/G/|        C/F/G/F/                          c/G/F/G/|
+[V:1]        [cc']4                                              |[K:Bbm]    z>[Bb]                                   [Bb]/>[Bb]>[Bb]|       [Bb]/>[Aa]>[Aa]-           [Aa]/>[Bb]>[cc']|
+[V:2][K:C#m clef=treble] C/F/G/B/                              c2|[K:Bbm]    G/B/e/[df]/-                                       [df]2|        A/c/e/[Ac]/-                         [Ac]2|
+[V:1]        [dd']/>[cc']>                        [Bb]2[Ff]/[Ff]-|          [Ff]2                                           [Ee][Dd]-|       [Dd]z/[Bb]/                 [Bb]/>[Bb]>[Bb]|
+[V:2]         B/d/f/[Ac]/-                                  [Ac]2|           B/d/f/b/                                        e/a/B/d/|        G/B/e/[df]/-                         [df]2|
+[V:1]        [Bb]/>[Aa]>[Aa]-                     [Aa]/>[Ff]>[Aa]|          [Bb]/>[cc']>[dd']-                                 [dd']2|        z4                                        |
+[V:2]         A/c/e/[Ac]/-                                  [Ac]2|           B/d/f/[Bd]/-                                       [Bd]2|        B/d/f/b/                          A/c/e/a/|
+[V:1]         z> [Bb]                             [Bb]/>[Bb]>[Bb]|          [Bb]/>[Aa]>[Aa]-                         [Aa]/>[Bb]>[cc']|       [dd']/>[cc']>[Bb]2               [Ff]/[Ff]-|
+[V:2]         G/B/e/[df]/-                                  [df]2|           A/c/e/[Ac]/-                                       [Ac]2|        B/d/f/[Bd]/-                         [Bd]2|
+[V:1]        [Ff]2                                      [Ee][Dd]-|          [Dd]z/[Ff]/                               [Ff]/>[Ff]>[Ff]|       [Ee]/>[Ff]>[Aa]2                  [Ff][Aa]/|
+[V:2]         B/d/f/b/                                   e/a/B/d/|           G/B/e/[df]/-                                       [df]2|        A/c/e/[Ac]/-                        [GAc]2|
+[V:1]        [Bb]2                                     [dd'][cc']|          [Bb]2>                                              [Aa]2|[K:Cm] [Gg][Gg]/[Ff]//[Gg]//-                [Gg]2|
+[V:2][K:Bbm clef=treble] B/d/f/[Bd]/-                       [Bd]2|           B/e/f/a/-                                             a2|[K:Cm]  A/e/f/A/                         c'/c/g/e/|
+[V:1]         z [Gg]                                     [Aa][Bb]|          [Ff]>[Dd]                                           [Dd]2|        z> [Dd]                          [Ee]<[Ff]|
+[V:2]         A/e/g/A/                                  c'/e/g/e/|           G/d/f/G/                                       d'/d/f/d/|        G/d/f/G/                         d'/d/f/d/|
+[V:1]        [Gg]        [Gg]/[Cc]//[Gg]//-                [Gg]2-|          [Gg]2>                                          [Ff][Ee]/|       [Ff][Ff]/[Ee]/              [Ff]/[Bb][Bb]/-|
+[V:2]         F/c/e/F/                                  c'/c/e/c/|           F/c/e/F/                                        a/c/A/c/|        G/d/f/G/                          b/d/f/d/|
+[V:1]        [Bb]4                                               |
+[V:2]         G/d/f/G/                                  c'/d/b/d/|
 [V:1]
 [V:2]
