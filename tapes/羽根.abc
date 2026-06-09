@@ -35,7 +35,11 @@ V:2
 [V:2]         A/e/g/A/                                  c'/e/g/e/|           G/d/f/G/                                       d'/d/f/d/|        G/d/f/G/                         d'/d/f/d/|
 [V:1]        [Gg]        [Gg]/[Cc]//[Gg]//-                [Gg]2-|          [Gg]2>                                          [Ff][Ee]/|       [Ff][Ff]/[Ee]/              [Ff]/[Bb][Bb]/-|
 [V:2]         F/c/e/F/                                  c'/c/e/c/|           F/c/e/F/                                        a/c/A/c/|        G/d/f/G/                          b/d/f/d/|
-[V:1]        [Bb]4                                               |
-[V:2]         G/d/f/G/                                  c'/d/b/d/|
+[V:1]        [Bb]4                                               |          [Gg][Gg]/[Ff]//[Gg]//-                              [Gg]2|        z [Gg]                            [Aa][Bb]|
+[V:2]         G/d/f/G/                                  c'/d/b/d/|           A/e/f/A/                                       c'/c/g/e/|        A/e/g/A/                         c'/e/g/e/|
+[V:1]        [Ff]>[Dd]                                      [Dd]2|           z> [Dd]                                        [Ee]<[Ff]|[K:Bbm][Bb][Bb]/[Aa]//[Bb]//-               [Bb]2-|
+[V:2]         G/d/f/G/                                  d'/d/f/d/|           G/d/f/G/                                       d'/d/f/d/|[K:Bbm] G/d/f/G/                          b/d/f/d/|
+[V:1][K:Bbm clef=treble] [Bb]2>                         [Aa][Gg]/|          [Aa][Aa]/[Gg]/                           [Aa]/[Bb] [Bb]/-|       [Bb]2          [^C^c]/[^D^d]/[=E=e]/[=B=b]/|
+[V:2]         G/d/f/G/                                   b/d/f/d/|           F/d/f/d/                                        a/d/f/d/|       =D/B/d/B/                                a2|
 [V:1]
 [V:2]
